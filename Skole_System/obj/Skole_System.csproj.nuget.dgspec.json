@@ -1,26 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Salar\\Documents\\C#_Projects\\Skole_System\\Skole_System\\Skole_System.csproj": {}
+    "C:\\GA\\Andre_Termin\\GIT\\SkoleSystem\\Skole_System\\Skole_System\\Skole_System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Salar\\Documents\\C#_Projects\\Skole_System\\Skole_System\\Skole_System.csproj": {
+    "C:\\GA\\Andre_Termin\\GIT\\SkoleSystem\\Skole_System\\Skole_System\\Skole_System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Salar\\Documents\\C#_Projects\\Skole_System\\Skole_System\\Skole_System.csproj",
+        "projectUniqueName": "C:\\GA\\Andre_Termin\\GIT\\SkoleSystem\\Skole_System\\Skole_System\\Skole_System.csproj",
         "projectName": "Skole_System",
-        "projectPath": "C:\\Users\\Salar\\Documents\\C#_Projects\\Skole_System\\Skole_System\\Skole_System.csproj",
-        "packagesPath": "C:\\Users\\Salar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Salar\\Documents\\C#_Projects\\Skole_System\\Skole_System\\obj\\",
+        "projectPath": "C:\\GA\\Andre_Termin\\GIT\\SkoleSystem\\Skole_System\\Skole_System\\Skole_System.csproj",
+        "packagesPath": "C:\\Users\\Lenovo i7\\.nuget\\packages\\",
+        "outputPath": "C:\\GA\\Andre_Termin\\GIT\\SkoleSystem\\Skole_System\\Skole_System\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Users\\Salar\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Salar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Users\\Salar\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lenovo i7\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
